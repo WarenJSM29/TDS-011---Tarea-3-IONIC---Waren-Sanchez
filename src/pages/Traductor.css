@@ -1,0 +1,26 @@
+.traductor-container {
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    gap: 16px;
+}
+
+.traductor-campo ion-label {
+    margin-bottom: 8px;
+    display: block;
+}
+
+.traductor-campo {
+    margin-bottom: 20px;
+}
+
+.traductor-boton {
+    display: flex;
+    justify-content: center;
+}
+
+.traductor-resultado {
+    margin-top: 20px;
+    text-align: center;
+    font-size: 1.1em;
+}

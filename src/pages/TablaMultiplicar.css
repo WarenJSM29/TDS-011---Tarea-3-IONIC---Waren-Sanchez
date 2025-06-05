@@ -1,0 +1,28 @@
+.tabla-container {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
+
+.tabla-campo ion-label {
+    margin-bottom: 8px;
+    display: block;
+}
+
+.tabla-campo {
+    margin-bottom: 20px;
+}
+
+.tabla-boton {
+    display: flex;
+    justify-content: center;
+}
+
+.tabla-resultado {
+    margin-top: 20px;
+    padding: 12px;
+    background-color: #3a3a3a;
+    border-radius: 10px;
+    text-align: center;
+    font-size: 1.1em;
+}
